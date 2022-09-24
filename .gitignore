@@ -1,0 +1,3 @@
+# ignore .vs and bin directory
+/.vs
+/bin
